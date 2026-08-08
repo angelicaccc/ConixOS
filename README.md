@@ -9,6 +9,7 @@
 ![Language](https://img.shields.io/badge/language-C%20%7C%20Assembly-purple)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
+<img width="186" height="47" alt="Captura de tela de 2026-08-08 01-37-03" src="https://github.com/user-attachments/assets/495d9aae-83b9-430d-8db2-eed401d5bd9b" />
 
 
 # ConixOS is a hobby operating system project aimed at personal use, servers, and so on. I am still learning about bare-metal programming and operating systems, so feedback and support are always welcome.
