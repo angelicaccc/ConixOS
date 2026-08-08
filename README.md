@@ -14,4 +14,4 @@
 
 # ConixOS is a hobby operating system project aimed at personal use, servers, and so on. I am still learning about bare-metal programming and operating systems, so feedback and support are always welcome.
 
-# The operating system uses GRUB as its default bootloader; currently, it is quite simple, merely displaying a message, but in the future, it will include more features such as Unix headers and much more.
+# The operating system uses GRUB as its default bootloader, currently, it is quite simple, merely displaying a message, but in the future, it will include more features such as Unix headers and much more.
