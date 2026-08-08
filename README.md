@@ -16,3 +16,10 @@
 
 # The operating system currently uses GRUB as its default bootloader. At the moment, it is quite simple and only displays a message. In the future, it will include more features.
 
+### AI Assistance
+
+# AI tools are used as a learning and development aid in ConixOS. Code suggestions may be provided by AI, but they are not directly copied and pasted into the project. I analyze the code, understand how each part works, and then write and adapt the implementation myself.
+
+The goal is to use AI as a learning tool while developing my own understanding of operating systems, C, Assembly, and low-level programming.
+
+
