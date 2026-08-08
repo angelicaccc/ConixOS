@@ -1,4 +1,3 @@
-#include "conixkernel/drivers/vga.h"
 #ifndef PRINTK_H
 #define PRINTK_H
 
