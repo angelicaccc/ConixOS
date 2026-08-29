@@ -4,7 +4,6 @@
 #include "core/readlinek.h"
 #include "core/cleark.h"
 #include "core/kpanic.h"
-#include "ConixAI/main.h"
 #include "core/kpanict.h"
 
 void kterminal_init() {
@@ -23,7 +22,7 @@ void kterminal_init() {
             cleark();
         } else if (strcmpk(command, "panic") == 0) {
             kpanic_test();
-      } else if (strcmpk(command, "help") == 0) {
+        } else if (strcmpk(command, "help") == 0) {
             printk("Available commands:");
             nlinek();
             printk("  clear - Clear the screen");
@@ -32,10 +31,6 @@ void kterminal_init() {
             nlinek();
             printk("  help - Show this help message");
             nlinek();
-            printk("  conixai - Run ConixAI in kernel mode");
-            nlinek();
-        } else if (strcmpk(command, "conixai") == 0) {
-            ai_main();
         } else {
             printk("Unknown command: ");
             printk(command);
